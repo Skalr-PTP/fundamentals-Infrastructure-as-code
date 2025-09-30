@@ -1,0 +1,7 @@
+*.exe
+*.log
+*.tmp
+*.terraform
+gitlab.crt
+.terraform/
+terraform.*
